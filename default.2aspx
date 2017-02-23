@@ -1,0 +1,22 @@
+﻿
+<html>
+<head>
+	 <link href="styles/bootstrap.min.css" rel="stylesheet" />
+	 <link href="styles/main.css" rel="stylesheet" />
+
+</head>
+<body>
+	<div class="img"></div>
+	<div class="submit">
+		<button type="button" class="btn btn-primary btn-lg" onclick="window.location = 'https://goo.gl/forms/OFhbIzGBxDTNSwal2'">RSVP Now</button>
+	</div>
+	<footer class="footer">
+      <div class="container">
+      <a href="https://www.facebook.com/cmajchyk/"><img src='http://www.womenactionmedia.org/cms/assets/themes/crate/images/social/facebook.png' /> Find us on Facebook</a>
+      <div style="float: right">
+       <a href="http://chinmayamissionalpharetta.org/">Learn More About CMA</a>
+       </div>
+      </div>
+    </footer>
+</body>
+</html>
